@@ -26,7 +26,7 @@ function appendKitten(name){
 }
 
 function prependKitten(name){
-  
+  const moreKittens = name.slice(0)
 }
 
 function removeLastKitten(){
